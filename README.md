@@ -57,7 +57,7 @@ python app.py
 The app will start, and you can access it in your browser at:
 🔗 http://127.0.0.1:5000/
 
-📊 Model Training
+📊 Model Training:
 python training_model.py
 
 💻Dataset Link: https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset

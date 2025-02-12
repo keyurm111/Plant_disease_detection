@@ -44,8 +44,7 @@ This project is built using Flask, TensorFlow/Keras, and HTML/CSS to assist farm
 
  🚀 Installation & Setup:  
 
-   1️⃣ Clone the Repository  
-```bash
+1️⃣ Clone the Repository:  
 git clone https://github.com/your-username/plant-disease-detection.git
 cd plant-disease-detection
 

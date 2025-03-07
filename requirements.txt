@@ -1,4 +1,3 @@
-# Python dependencies (for Flask backend)
 Flask
 flask-cors
 flask-session
@@ -6,11 +5,3 @@ tensorflow
 numpy
 requests
 werkzeug
-
-# Node.js dependencies (for Express backend)
-express
-mongoose
-cors
-bcryptjs
-jsonwebtoken
-dotenv
